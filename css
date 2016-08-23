@@ -1,0 +1,17 @@
+@import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
+@import 'https://fonts.googleapis.com/css?family=Patua+One';
+body {
+  padding:49px
+}
+nav {
+  font-size: 20px;
+  font-family: 'Baloo Tamma', cursive;
+}
+#about {
+  font-family: 'Patua One', cursive;
+  font-size: 24px;
+}
+#done {
+  font-family: 'Patua One', cursive;
+  
+}
